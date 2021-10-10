@@ -13,8 +13,7 @@ output: invalid
 the link https://en.wikipedia.org/wiki/Email_address
 
 3. Let us assume that A is a single dimensional array. You have given A array to construct a two-
-dimensional array. Write a C program to convert explicitly from 2D array to 1D array. Example,
+dimensional array. Write a C program to convert explicitly from 2D array to 1D array. Example, Map(A, i, j) gives you A[i][j]. You can use either row-major order or column-major order.
 
-Map(A, i, j) gives you A[i][j]. You can use either row-major order or column-major order.
 4. Write a C program to benchmark the performance of Selection Sort and Bubble Sort. Total input
 items may be randomly generated and already sorted.
